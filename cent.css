@@ -1,0 +1,14 @@
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+
+}
+.main{
+    width: 25px;
+    height: 25px;
+
+}
